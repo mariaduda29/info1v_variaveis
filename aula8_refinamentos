@@ -1,0 +1,151 @@
+Q1 - Escreva um algoritmo que calcule a soma de dois números inteiros.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a soma desses números;
+
+Q2 - Escreva um algoritmo que calcule a soma de dois números inteiros e mostre o resultado.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a soma desses números;
+    3. Mostro o resultado desse cálculo.
+
+Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e  'b', cacule a soma deles e mostre o resultado.
+
+    1. Leia os números 'a' e 'b';
+    2. Calcule a soma de 'a' mais 'b';
+    3. Mostre o resultado dessa soma.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a soma de [a] + [b];
+    3. Mostre o resultado dessa soma.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a [soma] = [a] + [b];
+    3. Mostre [soma].
+
+    Refinando o 'código':
+
+    1. Ler [a];
+    2. Ler [b];
+    2. [soma] = [a] + [b];
+    3. Mostre [soma].  # print [soma] show [soma]
+
+---------- Exercício 1 ----------
+
+1 - Escreva um algoritmo que calcule a diferença entre dois números inteiros.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a diferença entre esses dois números;
+
+2 - Escreva um algoritmo que calcule a diferença entre dois números inteiros e mostre o resultado.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a diferença entre esses dois números;
+    3. Mostro o resultado desse cálculo.
+
+3 - Escreva um algoritmo que leia dois números inteiros 'a' e  'b', cacule a diferença entre eles e mostre o resultado.
+
+    1. Leia os números 'a' e 'b';
+    2. Calcule a diferença de 'a' menos 'b';
+    3. Mostre o resultado dessa subtração.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a diferença de [a] - [b];
+    3. Mostre o resultado dessa subtração.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a [diferença] = [a] - [b];
+    3. Mostre [diferença].
+
+    Refinando o 'código':
+
+    1. Ler [a];
+    2. Ler [b];
+    2. [diferença] = [a] - [b];
+    3. Mostre [diferença]. 
+
+
+---------- Exercício 2 ----------
+
+1 - Escreva um algoritmo que calcule o produto de dois números inteiros.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo o produto desses dois números;
+
+2 - Escreva um algoritmo que calcule o produto de dois números inteiros e mostre o resultado.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo o produto desses dois números;
+    3. Mostro o resultado desse cálculo.
+
+3 - Escreva um algoritmo que leia dois números inteiros 'a' e  'b', cacule o produto deles e mostre o resultado.
+
+    1. Leia os números 'a' e 'b';
+    2. Calcule o produto de 'a' vezes 'b';
+    3. Mostre o resultado dessa multiplicação.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule o produto de [a] * [b];
+    3. Mostre o resultado dessa multiplicação.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule o [produto] = [a] * [b];
+    3. Mostre [produto].
+
+    Refinando o 'código':
+
+    1. Ler [a];
+    2. Ler [b];
+    2. [produto] = [a] * [b];
+    3. Mostre [produto]. 
+
+---------- Exercício 3 ----------
+
+1 - Escreva um algoritmo que calcule o quociente de dois números inteiros.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo o quociente desses dois números;
+
+2 - Escreva um algoritmo que calcule o quociente de dois números inteiros e mostre o resultado.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo o quociente desses dois números;
+    3. Mostro o resultado desse cálculo.
+
+3 - Escreva um algoritmo que leia dois números inteiros 'a' e  'b', cacule o quociente deles e mostre o resultado.
+
+    1. Leia os números 'a' e 'b';
+    2. Calcule o produto de 'a' dividido por 'b';
+    3. Mostre o resultado dessa divisão.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule o produto de [a] : [b];
+    3. Mostre o resultado dessa divisâo.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule o [produto] = [a] : [b];
+    3. Mostre [quociente].
+
+    Refinando o 'código':
+
+    1. Ler [a];
+    2. Ler [b];
+    2. [quociente] = [a] : [b];
+    3. Mostre [quociente]. 
+  
